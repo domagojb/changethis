@@ -1,0 +1,14 @@
+Domagoj Boroš 2013.
+
+This is not licensed in any way. Feel free to use and share.
+
+v.0.0.1
+
+'changethis' is a simple tool written in python used for replacing string occurences in files.
+
+To use create a file named 'change_this' and a file named 'to_this'. In the change_this file,put the string which you want to change, and in the to_this file put the string to which you want to change it. 
+This has been made so it's easier to use as single tool.
+
+Run the program from the terminal and add the files you wish to be changed.
+
+No recursion feature as of yet. Will be implemented soon.
